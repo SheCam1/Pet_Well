@@ -1,12 +1,12 @@
 body {
     background-color: #f7b0fa;
     color: #000;
+    text-align: center;
 }
 .hero-section {
     background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-taobao-pet-shop-pink-banner-picture-image_1034358.jpg');
     background-size: cover;
     padding: 100px 0;
-    text-align: center;
 }
 .hero-section h1 {
     font-size: 40px;
@@ -20,24 +20,18 @@ body {
     font-size: 20px;
     padding: 15px 40px;
     margin: 10px;
-    text-align: center;
 }
 .features-icon {
     font-size: 40px;
     margin-bottom: 20px;
-    text-align: center;
 }
-section{
-    text-align: center;
-}
+
 .feature-title {
     font-size: 30px;
     font-weight: bold;
-    text-align: center;
 }
 .feature-description {
     font-size: 20px;
-    text-align: center;
 }
 .testimonial {
     border-radius: 10px;
@@ -45,13 +39,13 @@ section{
     padding: 10px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    text-align: center;
+    
 }
 footer {
     background-color: #000;
     color: #fff;
     font-size: 20px;
     padding: 20px 0;
-    text-align: center;
+    
 }
 
