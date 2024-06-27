@@ -1,12 +1,10 @@
 body {
     background-color: #f7b0fa;
-    
     color: #000;
 }
 .hero-section {
     background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-taobao-pet-shop-pink-banner-picture-image_1034358.jpg');
     background-size: cover;
-    background-position: center;
     border-radius: 10px;
     padding: 100px 0;
     color: #000;
@@ -54,6 +52,7 @@ section{
 footer {
     background-color: #000;
     color: #fff;
+    font-size: 20px;
     padding: 20px 0;
     text-align: center;
 }
@@ -61,7 +60,4 @@ footer a {
     color: #fff;
     font-size: 20px;
     margin: 0 10px;
-}
-.contact-info {
-    font-size: 20px;
 }
